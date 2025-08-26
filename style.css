@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+form {
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+label, input {
+  display: block;
+  margin-bottom: 10px;
+}
